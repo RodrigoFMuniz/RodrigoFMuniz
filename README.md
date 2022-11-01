@@ -3,7 +3,10 @@
   - Python
   - Pydantic
   - SQLAlchemy
+  - Alembic
   - Database Modeling
+  - MySQL
+  - Postgre
   - Data Structure
   - Problem Solvings
   - Machine learning algorithms
