@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @RodrigoFMuniz
 - 👀 I’m interested in:
   - Python
+  - FastAPI
   - Pydantic
   - SQLAlchemy
   - Alembic
   - Database Modeling
   - MySQL
-  - Postgre
+  - PostgreSQL
+  - MongoDB
   - Data Structure
   - Problem Solvings
   - Machine learning algorithms
