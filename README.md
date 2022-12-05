@@ -10,8 +10,11 @@
   - PostgreSQL
   - MongoDB
   - Data Structure
+  - Docker
   - Problem Solvings
   - Machine learning algorithms
+  - Dart
+  - Flutter
 - 🌱 I’m currently learning:
   - MongoDB
   - Docker
