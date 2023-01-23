@@ -5,6 +5,8 @@
   - Pydantic
   - SQLAlchemy
   - Alembic
+  - Node
+  - Express
   - Database Modeling
   - MySQL
   - PostgreSQL
